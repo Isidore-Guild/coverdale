@@ -2,6 +2,8 @@
 
 Transcriptions were missing the Apocrypha and certain typographical marks, some less important than others.
 
+Scan to compare against: http://bibles-online.net/1535/
+
 ## Restoring shortened words
 * ye -> yͤ
 * yt -> yͭ
