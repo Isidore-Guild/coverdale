@@ -16,5 +16,5 @@ Scan to compare against: http://bibles-online.net/1535/
 * firmamet -> firmamēt
 * childre -> childrē
 
-### Omitted Text
+## Omitted Text
 The «(Omitted Text)» were part of the transcription. I assume these are the result of a small difference in versification. Will double-check with the scan if I have some free time.
