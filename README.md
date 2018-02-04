@@ -7,6 +7,9 @@ Scan to compare against: http://bibles-online.net/1535/
 ## Restoring shortened words
 * ye → yͤ
 * yt → yͭ
+* yi → yͥ
+* yt → yͭ
+* wt → wͭ
 
 ### Macrons
 
@@ -18,6 +21,8 @@ Scan to compare against: http://bibles-online.net/1535/
 * cotynue → cōtynue
 * cotinueth → cōtinueth
 * fro → frō
+* Abraha*s* → Abrahā*s*
+* Absolo → Absolō
 
 ## Omitted Text
 The «(Omitted Text)» were part of the transcription. I assume these are the result of a small difference in versification. Will double-check with the scan if I have some free time.
