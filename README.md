@@ -4,6 +4,9 @@ Transcriptions were missing the Apocrypha and certain typographical marks, some 
 
 Scan to compare against: http://bibles-online.net/1535/
 
+Alternative (but incomplete) transcription of the New Testament: https://holyscriptures.com/luke-chapter-1/
+This one preserves macrons among other things. Should find some way to scrape and compare it.
+
 ## Restoring shortened words
 * ye → yͤ
 * yt → yͭ
@@ -23,6 +26,8 @@ Scan to compare against: http://bibles-online.net/1535/
 * fro → frō
 * Abraha*s* → Abrahā*s*
 * Absolo → Absolō
+* excellet → excellēt
+* ma → mā
 
 ## Omitted Text
 The «(Omitted Text)» were part of the transcription. I assume these are the result of a small difference in versification. Will double-check with the scan if I have some free time.
